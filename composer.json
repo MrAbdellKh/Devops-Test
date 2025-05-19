@@ -1,0 +1,13 @@
+{
+  "name": "php-bonjour-app",
+  "description": "A simple PHP application that displays a greeting message.",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}

@@ -1,4 +1,4 @@
 <?php
 // 👋 Affiche un simple message de bienvenue
-echo "Bonjour amigooos ";
+echo " Bonjour Amigooos ";
 ?>

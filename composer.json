@@ -1,5 +1,5 @@
 {
-  "name": "DevopsTest1",
+  "name": "korchi/devops-test",
   "description": "A simple PHP application that displays a greeting message.",
   "type": "project",
   "require": {},
